@@ -53,3 +53,5 @@ new_sum = new_sum + test_find_element()
 
 assert new_sum == 5
 print("Verified that 5 entries listed out of 24 total entries")
+
+driver.close()
